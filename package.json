@@ -1,11 +1,29 @@
 {
   "name": "coffeelint-config-moqada",
-  "version": "0.0.0",
   "description": "My personal CoffeeLint configurations",
+  "version": "0.0.0",
+  "author": "moqada <moqada@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/moqada/coffeelint-config/issues"
+  },
+  "files": [
+    "index.js"
+  ],
+  "homepage": "https://github.com/moqada/coffeelint-config#readme",
+  "keywords": [
+    "coffeelint",
+    "coffeelintconfig"
+  ],
+  "license": "MIT",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moqada/coffeelint-config.git"
+  },
   "scripts": {
     "test": "cd example && npm i && npm test"
   },
-  "author": "moqada <moqada@gmail.com>",
-  "license": "MIT"
+  "devDependencies": {
+    "coffeelint": "^1.12.1"
+  }
 }
