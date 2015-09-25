@@ -1,0 +1,14 @@
+{
+  "name": "example",
+  "version": "0.0.0",
+  "description": "example test for coffeelint",
+  "scripts": {
+    "test": "coffeelint index.coffee"
+  },
+  "author": "moqada <moqada@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "coffeelint": "^1.12.1",
+    "coffeelint-config-moqada": "file:.."
+  }
+}
