@@ -1,7 +1,7 @@
 {
   "name": "coffeelint-config-moqada",
   "description": "My personal CoffeeLint configurations",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "moqada <moqada@gmail.com>",
   "bugs": {
     "url": "https://github.com/moqada/coffeelint-config/issues"
