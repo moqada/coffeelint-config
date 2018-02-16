@@ -24,6 +24,6 @@
     "test": "cd example && npm i && npm test"
   },
   "devDependencies": {
-    "coffeelint": "^1.12.1"
+    "coffeelint": "^2.1.0"
   }
 }
